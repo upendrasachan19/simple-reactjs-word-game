@@ -1,0 +1,12 @@
+{
+  "name": "WordGame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Upendra Sachan",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1",
+    "bootstrap": "^4.0.0"
+  }
+}
